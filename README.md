@@ -3,14 +3,14 @@ This week we encounter our first common geoscience equation, the diffusion equat
 We will start with a [short lecture](Lesson/Natural-diffusion-lecture-slides.pdf) about the diffusion equation in general and its applications for geomorphology.
 There are also [some notes](Lesson/Solving-the-diffusion-equation-notes.pdf) posted for how to solve the diffusion equation.
 These are not required reading, but may be of interest for the exercise this week.
-As usual we will finish with the [exercise for this week]().
+As usual we will finish with the [exercise for this week](https://classroom.github.com/assignment-invitations/d95e2fbe8194920792f8c27ede68eaaf).
 
 ## Lesson overview
 
 1. [Lecture slides on Natural diffusion](Lesson/Natural-diffusion-lecture-slides.pdf)
 2. [Notes on solving the diffusion equation](Lesson/Solving-the-diffusion-equation-notes.pdf)
 3. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
-4. [Exercise 10: Hillslope diffusion]()
+4. [Exercise 10: Hillslope diffusion](https://classroom.github.com/assignment-invitations/d95e2fbe8194920792f8c27ede68eaaf)
 5. [Hints for Exercise 10](Lesson/hints.md)
 
 ## Resources
