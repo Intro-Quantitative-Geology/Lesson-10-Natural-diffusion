@@ -1,9 +1,10 @@
 # Lesson 10: Natural diffusion
-This week we encounter our first common geoscience equation, the diffusion equation, and the lesson for this week differs slightly from the previous lessons.
-First, we will start with a short lecture about the diffusion equation in general and its applications for geomorphology.
-Second, there are some notes posted for how to solve the diffusion equation.
+This week we encounter our first common geoscience equation, the diffusion equation, and the lesson for this week differs slightly from the previous lessons:
+
+1. We will start with a short lecture about the diffusion equation in general and its applications for geomorphology.
+2. There are some notes posted for how to solve the diffusion equation.
 These are not required reading, but may be of interest for the exercise this week.
-Lastly, as usual we will finish with the exercise for this week.
+3. As usual we will finish with the exercise for this week.
 
 ## Lesson overview
 
