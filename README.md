@@ -8,9 +8,9 @@ These are not required reading, but may be of interest for the exercise this wee
 
 ## Lesson overview
 
-1. [Lecture slides on Natural diffusion]()
-2. [Notes on solving the diffusion equation]()
-3. [Connecting to the cloud computers from D211]()
+1. [Lecture slides on Natural diffusion](Lesson/Natural-diffusion-lecture-slides.pdf)
+2. [Notes on solving the diffusion equation](Lesson/Solving-the-diffusion-equation-notes.pdf)
+3. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
 4. [Exercise 10: Hillslope diffusion]()
 5. [Hints for Exercise 10](Lesson/hints.md)
 
